@@ -1,0 +1,2 @@
+# WearOSHeartBeatSample
+WearOSの脈拍取得サンプル(サンプルコードが動かないのでコミット)
